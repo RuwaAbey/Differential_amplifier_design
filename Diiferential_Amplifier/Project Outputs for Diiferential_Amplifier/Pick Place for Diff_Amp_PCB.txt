@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+E:\6_7_th semester\EE403TE_Integrated_Analog_Electronics\Labs\Mini_Project\Diiferential_Amplifier\Project Outputs for Diiferential_Amplifier\Pick Place for Diff_Amp_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/02/25
+Time:       16:12
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer    Footprint            Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                
+R7         CRCW08052K70FKEA TopLayer FP-CRCW0805-e3-IPC_A 5060.000      1445.000      270      "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2700ohm, 150V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0805"                
+R6         CRCW08052K70FKEA TopLayer FP-CRCW0805-e3-IPC_A 4635.000      1445.000      270      "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2700ohm, 150V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0805"                
+U3         SSM2212RZ        TopLayer R_8_ADI              5315.000      1375.000      0        "No Description Available"                                                                                                 
+P2         61300411121      TopLayer 61300411121          4210.000      1350.000      90       "Board Connector, 4 Contact(s), 1 Row(s), Male, Straight, 0.1 inch Pitch, Solder Terminal, Locking, Black Insulator, Plug" 
+J1         M20-9990246      TopLayer FP-M20-9990246-MFG   4200.000      2440.000      270      "Board Connector, 2 Contact(s), 1 Row(s), Male, Straight, 0.1 inch Pitch, Solder Terminal, Locking, Black Insulator"       
+U2         SSM2212RZ        TopLayer R_8_ADI              4850.000      1625.000      0        "No Description Available"                                                                                                 
+U1         SSM2212RZ        TopLayer R_8_ADI              4850.000      2140.000      0        "No Description Available"                                                                                                 
+R5         CRCW08052K70FKEA TopLayer FP-CRCW0805-e3-IPC_A 4375.000      2430.000      270      "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2700ohm, 150V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0805"                
+R4         CRCW08052K70FKEA TopLayer FP-CRCW0805-e3-IPC_A 5335.000      2430.000      270      "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2700ohm, 150V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0805"                
+R3         CRCW08052K70FKEA TopLayer FP-CRCW0805-e3-IPC_A 5550.000      2000.000      270      "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2700ohm, 150V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0805"                
+R2         CRCW08052K70FKEA TopLayer FP-CRCW0805-e3-IPC_A 5150.000      2125.000      270      "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2700ohm, 150V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0805"                
+R1         CRCW08052K70FKEA TopLayer FP-CRCW0805-e3-IPC_A 4460.000      2140.000      90       "Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2700ohm, 150V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0805"                
+P1         61300411121      TopLayer 61300411121          4210.000      1925.000      90       "Board Connector, 4 Contact(s), 1 Row(s), Male, Straight, 0.1 inch Pitch, Solder Terminal, Locking, Black Insulator, Plug" 
+J2         M20-9990246      TopLayer FP-M20-9990246-MFG   5535.000      2425.000      270      "Board Connector, 2 Contact(s), 1 Row(s), Male, Straight, 0.1 inch Pitch, Solder Terminal, Locking, Black Insulator"       

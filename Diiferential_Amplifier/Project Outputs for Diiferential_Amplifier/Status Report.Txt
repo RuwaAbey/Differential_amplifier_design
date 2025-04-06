@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Diiferential_Amplifier.PrjPcb]
+   Generated File[Diff_Amp_PCB_Legend_Top.gbr]
+   Generated File[Diff_Amp_PCB_Paste_Top.gbr]
+   Generated File[Diff_Amp_PCB_Soldermask_Top.gbr]
+   Generated File[Diff_Amp_PCB_Copper_Signal_Top.gbr]
+   Generated File[Diff_Amp_PCB_Copper_Signal_Bot.gbr]
+   Generated File[Diff_Amp_PCB_Soldermask_Bot.gbr]
+   Generated File[Diff_Amp_PCB_Paste_Bot.gbr]
+   Generated File[Diff_Amp_PCB_Legend_Bot.gbr]
+   Generated File[Diff_Amp_PCB_Profile.gbr]
+   Generated File[Diff_Amp_PCB.EXTREP]
+   Generated File[Diff_Amp_PCB.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 4:14:47 PM On 2/28/2025

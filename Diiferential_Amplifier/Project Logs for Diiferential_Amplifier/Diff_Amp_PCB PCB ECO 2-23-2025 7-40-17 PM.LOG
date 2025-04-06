@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=NetP1_3 Pin=U?-2
+Removed Pin From Net: NetName=NetP1_4 Pin=U?-7
+Change Component Footprint: Designator=P1 Old Footprint=MOLX-22-23-2061_V New Footprint=61300411121
+Change Component Comment : Designator=P1 Old Comment=22-23-2061 New Comment=61300411121
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=70C63D91-56AC-45C1-AB8A-462B049F4A43 New VaultGUID=70C63D91-56AC-45C1-AB8A-462B049F4A43 Old ItemGUID=6db754a6-e08d-4db7-8a91-6ca7b630e64e New ItemGUID=e8fbd1c4-00bd-431a-a367-7fbd091f9c4b Old RevisionGUID=1d2e4657-9288-4cb5-9898-80a6e9966e93 New RevisionGUID=d0e3b4bd-89bf-49ba-b22f-42d59504fd58
+Change component parameters: Designator = "P1" ("P1"); Footprint = "MOLX-22-23-2061_V"; UniqueID = "\DUQYWVVW" ("\DUQYWVVW")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(FP-M20-9990246-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(61300411121)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "BOARD CONNECTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(R_8_ADI)
+Add component (AddParameter): Name = "Design Item ID"; Value = "SSM2212RZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "SSM2212RZ.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP1_3 Pin=R1-2
+Added Pin To Net: NetName=NetP1_4 Pin=R2-2
+Added Pin To Net: NetName=NetP1_3 Pin=U1-1
+Added Pin To Net: NetName=NetP1_4 Pin=U1-8
+Change Net Name : Old Net Name=NetU?_1 New Net Name=NetU1_3
+Change Net Name : Old Net Name=NetU?_6 New Net Name=NetU1_6
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J2-2
+Added Pin To Net: NetName=NetJ1_1 Pin=P2-4
+Added Pin To Net: NetName=NetJ1_1 Pin=R3-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R4-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R5-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=R5-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R4-2
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=U2-2
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U2-7
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=U3-3
+Added Pin To Net: NetName=NetP2_3 Pin=U3-6
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U3-7
+Added Pin To Net: NetName=NetR3_2 Pin=U3-8
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Pin To Net: NetName=NetU2_3 Pin=U2-6
+Added Pin To Net: NetName=NetU2_3 Pin=U3-1
+Added Net: Name=NetU2_3
+Added Member To Class: ClassName=Diff_Amp_Shcematic Member=Component J2 M20-9990246
+Added Member To Class: ClassName=Diff_Amp_Shcematic Member=Component P2 61300411121
+Added Member To Class: ClassName=Diff_Amp_Shcematic Member=Component R5 CRCW08052K70FKEA
+Added Member To Class: ClassName=Diff_Amp_Shcematic Member=Component U1 SSM2212RZ
+Added Member To Class: ClassName=Diff_Amp_Shcematic Member=Component U2 SSM2212RZ
+Added Member To Class: ClassName=Diff_Amp_Shcematic Member=Component U3 SSM2212RZ
